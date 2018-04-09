@@ -4,7 +4,7 @@ module.exports = {
   'button': [{
     'name': '小小大星球',
     'type': 'view',
-    'url': 'http://www.iqiyi.com/v_19rrmbr34s.html#curid=504060600_7403c68656f6d0b560d7bd3b41f82f5f'
+    'url': 'http://www.nextsticker.cn:9250'
   }, {
     'name': '一条龙定制',
     'sub_button': [{
